@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/NodeZA/widget-loader",
   "dependencies": {
-    "ghost-sandbox": "^0.1.1",
+    "ghost-sandbox": "^1.0.0",
     "lodash": "^4.16.0",
     "when": "^3.7.3"
   },
